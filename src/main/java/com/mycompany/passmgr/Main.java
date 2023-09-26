@@ -105,6 +105,7 @@ public class Main extends javax.swing.JFrame {
         setAlwaysOnTop(true);
         setResizable(false);
 
+        Tabs.setBackground(new java.awt.Color(153, 51, 255));
         Tabs.setMaximumSize(new java.awt.Dimension(543, 32767));
         Tabs.addChangeListener(new javax.swing.event.ChangeListener() {
             public void stateChanged(javax.swing.event.ChangeEvent evt) {
@@ -511,7 +512,7 @@ public class Main extends javax.swing.JFrame {
         // TODO add your handling code here:
         Random random = new Random();
         int index;
-        String s = "nkb8MO§qAè[&µW@Xj}l7|g4JwSBG9?Cc!=I.`5éx1rPNçh:#£~iH3zdo\"*]^DàZKp_V/$FURE\\av;u6Qy-)0LTe'mft(Y2s";
+        String s = ".8fd§K1Exi23mY5P=yhC\\\"tuJveW}Ij0*)BL9;k`~S{]ncVFG6roUXA:&M!b^Hl[sq4RDQNg|?wZ$aTp,O@7z";
         
         String t="";
         for(int i=0;i<16;i++)
@@ -629,7 +630,7 @@ public class Main extends javax.swing.JFrame {
         // TODO add your handling code here:
         Random random = new Random();
         int index;
-        String s = "nkb8MO§qAè[&µW@Xj}l7|g4JwSBG9?Cc!=I.`5éx1rPNçh:#£~iH3zdo\"*]^DàZKp_V/$FURE\\av;u6Qy-)0LTe'mft(Y2s";
+        String s = ".8fd§K1Exi23mY5P=yhC\\\"tuJveW}Ij0*)BL9;k`~S{]ncVFG6roUXA:&M!b^Hl[sq4RDQNg|?wZ$aTp,O@7z";
         
         String t="";
         for(int i=0;i<16;i++)
